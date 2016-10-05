@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SimpleCalculator</id>
+    <version>1.0.0</version>
+    <title>SimpleCalculator</title>
+    <authors>PCBL</authors>
+    <owners>PCBL</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a sample package created for the article 'Nuget Package continuous delivery using Visual Studio Team Services' of the2nd Edition of GFT´s Architecture Journal.</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags>Calculator</tags>
+  </metadata>
+</package>
